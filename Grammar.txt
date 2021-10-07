@@ -1,0 +1,4 @@
+A-> cAf|?|bbb
+S-> aSb|aSbb|Aa
+N-> aha|F
+F-> ?
